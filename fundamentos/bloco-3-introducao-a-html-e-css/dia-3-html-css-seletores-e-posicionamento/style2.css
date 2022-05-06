@@ -1,0 +1,16 @@
+h1, p {
+
+    text-align: center;
+
+}
+ol li:hover {
+    list-style: none;
+    background-color: brown;
+}
+
+ol li:active {
+
+    list-style: none;
+    color: white
+    
+}

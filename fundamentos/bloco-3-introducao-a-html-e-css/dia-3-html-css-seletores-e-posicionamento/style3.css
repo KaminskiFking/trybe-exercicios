@@ -1,0 +1,58 @@
+div:hover {
+    
+    border-style: outset;
+    border-color: rgb(182, 34, 250);
+
+}
+
+h3 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+div:nth-child(1) {
+
+    background-color: rgb(115, 115, 255);
+    font-size: 30px;
+}
+
+div:nth-child(2) {
+
+    background-color: violet;
+}
+
+div:nth-child(3) {
+
+    background-color: rgba(19, 189, 201, 0.452);
+}
+
+div:nth-child(4) {
+
+    background-color: rgba(248, 26, 26, 0.452);
+}
+
+div:nth-child(5) {
+
+    background-color: rgba(229, 255, 81, 0.452);
+}
+
+div:nth-child(1) h3 {
+
+    font-style: italic;
+
+}
+
+div:nth-child(3) h3 {
+
+    font-style: italic;
+
+}
+
+div:nth-child(5) h3 {
+
+    font-style: italic;
+
+}
+
