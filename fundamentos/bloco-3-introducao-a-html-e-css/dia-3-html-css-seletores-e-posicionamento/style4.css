@@ -1,0 +1,61 @@
+ol {
+
+    background-color: yellow;
+
+}
+
+.impar {
+
+    text-transform: uppercase;
+
+}
+
+.par {
+
+    color: green;
+
+}
+
+h1, h2, h3{
+
+    color: red;
+
+}
+
+h1 {
+
+    font-size: 40px;
+    border: 1px solid black;
+
+}
+
+li {
+
+    font-size: 20px;
+
+}
+
+li em {
+
+    font-weight: bold;
+
+}
+
+.tresprimeira {
+
+    color: blue;
+
+}
+
+.rosa {
+
+    background-color: pink;
+    
+}
+
+ul li a:hover {
+
+    font-weight: bold;
+    color: orange;
+}
+
